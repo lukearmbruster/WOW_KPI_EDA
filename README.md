@@ -1,2 +1,3 @@
 Please view notebook. 
-Please find source data here: https://www.kaggle.com/mylesoneill/warcraft-avatar-history
+
+Source data is located here: https://www.kaggle.com/mylesoneill/warcraft-avatar-history
